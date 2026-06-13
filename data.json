@@ -1,0 +1,505 @@
+{
+    "last_updated": "13-06-2026 02:21 PM IST",
+    "inventory": [
+        {
+            "ITEM": "Can Opener Green",
+            "Total": 19,
+            "Sold_Amazon": 19.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Can Opener Orange",
+            "Total": 20,
+            "Sold_Amazon": 16.0,
+            "Sold_Meesho": 3.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Can Opener Steel",
+            "Total": 9,
+            "Sold_Amazon": 6.0,
+            "Sold_Meesho": 3.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Washing Machine Pad",
+            "Total": 50,
+            "Sold_Amazon": 4.0,
+            "Sold_Meesho": 40.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 5.0
+        },
+        {
+            "ITEM": "Push Up Stand",
+            "Total": 50,
+            "Sold_Amazon": 23.0,
+            "Sold_Meesho": 26.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Plastic Hanging Rack Beige",
+            "Total": 18,
+            "Sold_Amazon": 7.0,
+            "Sold_Meesho": 2.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 9.0
+        },
+        {
+            "ITEM": "Plastic Hanging Rack Grey",
+            "Total": 18,
+            "Sold_Amazon": 13.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 5.0
+        },
+        {
+            "ITEM": "Plastic Hanging Rack Black",
+            "Total": 14,
+            "Sold_Amazon": 3.0,
+            "Sold_Meesho": 4.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 7.0
+        },
+        {
+            "ITEM": "Herb Scissor Green",
+            "Total": 7,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 6.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Herb Scissor Pink",
+            "Total": 7,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 7.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Herb Scissor Blue",
+            "Total": 10,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 7.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 3.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Knife Sharpner",
+            "Total": 25,
+            "Sold_Amazon": 11.0,
+            "Sold_Meesho": 7.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 6.0
+        },
+        {
+            "ITEM": "Kitchen Scissor Red",
+            "Total": 26,
+            "Sold_Amazon": 2.0,
+            "Sold_Meesho": 4.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 20.0
+        },
+        {
+            "ITEM": "Kitchen Scissor White",
+            "Total": 49,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 32.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 16.0
+        },
+        {
+            "ITEM": "Gel Eye Mask",
+            "Total": 48,
+            "Sold_Amazon": 5.0,
+            "Sold_Meesho": 14.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 1.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 30.0
+        },
+        {
+            "ITEM": "Hot and Cold Gel Pack Blue",
+            "Total": 130,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 128.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 2.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Hot and Cold Gel Pack Black",
+            "Total": 142,
+            "Sold_Amazon": 2.0,
+            "Sold_Meesho": 64.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 2.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 78.0
+        },
+        {
+            "ITEM": "Shoe Bag Grey",
+            "Total": 15,
+            "Sold_Amazon": 4.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 11.0
+        },
+        {
+            "ITEM": "Shoe Bag Blue",
+            "Total": 34,
+            "Sold_Amazon": 4.0,
+            "Sold_Meesho": 5.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 25.0
+        },
+        {
+            "ITEM": "Stove Ring",
+            "Total": 320,
+            "Sold_Amazon": 22.0,
+            "Sold_Meesho": 197.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 100.0
+        },
+        {
+            "ITEM": "Medicine Box",
+            "Total": 600,
+            "Sold_Amazon": 7.0,
+            "Sold_Meesho": 445.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 3.0,
+            "Damaged_Lost_Others": 2.0,
+            "Remaining": 149.0
+        },
+        {
+            "ITEM": "Yoga Pad Beige",
+            "Total": 11,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 11.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Yoga Pad Blue",
+            "Total": 26,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 22.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 4.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Yoga Pad Orange",
+            "Total": 10,
+            "Sold_Amazon": 1.0,
+            "Sold_Meesho": 9.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Yoga Pad Pink",
+            "Total": 24,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 13.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 11.0
+        },
+        {
+            "ITEM": "Yoga Pad Violet",
+            "Total": 13,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 3.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 10.0
+        },
+        {
+            "ITEM": "Yoga Pad Light Rose",
+            "Total": 1,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 1.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Yoga Pad Teal",
+            "Total": 22,
+            "Sold_Amazon": 2.0,
+            "Sold_Meesho": 19.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Folding Stool Small Brown",
+            "Total": 6,
+            "Sold_Amazon": 6.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Folding Stool Small Green",
+            "Total": 4,
+            "Sold_Amazon": 4.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Folding Stool Medium Brown",
+            "Total": 22,
+            "Sold_Amazon": 8.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 13.0
+        },
+        {
+            "ITEM": "Folding Stool Medium Green",
+            "Total": 30,
+            "Sold_Amazon": 5.0,
+            "Sold_Meesho": 6.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 19.0
+        },
+        {
+            "ITEM": "Folding Stool Large Brown",
+            "Total": 16,
+            "Sold_Amazon": 7.0,
+            "Sold_Meesho": 2.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 2.0,
+            "Remaining": 5.0
+        },
+        {
+            "ITEM": "Folding Stool Large Green",
+            "Total": 12,
+            "Sold_Amazon": 7.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 5.0
+        },
+        {
+            "ITEM": "Travel Kit Blue",
+            "Total": 14,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 9.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 5.0
+        },
+        {
+            "ITEM": "Travel Kit Grey",
+            "Total": 16,
+            "Sold_Amazon": 9.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 6.0
+        },
+        {
+            "ITEM": "Shelf Liner Grey",
+            "Total": 23,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 22.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Shelf Liner White",
+            "Total": 25,
+            "Sold_Amazon": 9.0,
+            "Sold_Meesho": 7.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 9.0
+        },
+        {
+            "ITEM": "Inflatable Pillow Black/Navy Blue",
+            "Total": 2,
+            "Sold_Amazon": 1.0,
+            "Sold_Meesho": 1.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Inflatable Pillow Blue",
+            "Total": 12,
+            "Sold_Amazon": 9.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 3.0
+        },
+        {
+            "ITEM": "Inflatable Pillow Grey",
+            "Total": 4,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 4.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Inflatable Pillow Pink",
+            "Total": 2,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 2.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Inflatable Pillow Teal",
+            "Total": 1,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 1.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Anti Slip Mat Green",
+            "Total": 8,
+            "Sold_Amazon": 2.0,
+            "Sold_Meesho": 5.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Anti Slip Mat Pink",
+            "Total": 11,
+            "Sold_Amazon": 2.0,
+            "Sold_Meesho": 9.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Anti Slip Mat Purple",
+            "Total": 6,
+            "Sold_Amazon": 2.0,
+            "Sold_Meesho": 4.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Anti Slip Mat Yellow",
+            "Total": 8,
+            "Sold_Amazon": 6.0,
+            "Sold_Meesho": 2.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Anti Slip Mat Ivory",
+            "Total": 7,
+            "Sold_Amazon": 2.0,
+            "Sold_Meesho": 3.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 2.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Anti Slip Mat Rose",
+            "Total": 9,
+            "Sold_Amazon": 5.0,
+            "Sold_Meesho": 4.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Vegetable Bag",
+            "Total": 50,
+            "Sold_Amazon": 8.0,
+            "Sold_Meesho": 11.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 31.0
+        }
+    ]
+}

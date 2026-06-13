@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Stock Keeping Dashboard</title>
+    <style>
+        /* 1. Background and Modern Font */
+        body { 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+            padding: 20px; 
+            background: url('background.jpg') no-repeat center center fixed;
+            background-size: cover;
+            color: #222;
+        }
+
+        /* 2. Container made more transparent (alpha changed from 0.85 to 0.5) */
+        .dashboard-container {
+            background-color: rgba(255, 255, 255, 0.7); 
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+            backdrop-filter: blur(8px); /* Increased blur to keep text readable over complex backgrounds */
+        }
+
+        .header-container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            border-bottom: 2px solid rgba(0, 0, 0, 0.1);
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+
+        .timestamp {
+            color: #fff;
+            background: rgba(34, 34, 34, 0.8);
+            padding: 8px 15px;
+            border-radius: 8px;
+            font-size: 0.9em;
+            font-weight: bold;
+        }
+
+        /* 3. Modern Rounded Cells & Bolder Text */
+        table { 
+            width: 100%; 
+            border-collapse: separate; 
+            border-spacing: 4px;       
+        }
+        
+        th, td { 
+            padding: 10px; 
+            text-align: center; 
+            border-radius: 6px; 
+        }
+
+        /* Making all values bolder per your request */
+        td {
+            font-weight: bold;
+            font-size: 1.05em;
+        }
+        
+        td:first-child { text-align: left; background-color: rgba(241, 243, 245, 0.6); } 
+
+        /* Header Colors Converted to RGBA for Transparency */
+        .sold-group { background-color: rgba(50, 205, 50, 0.8); color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.3); } 
+        .return-group { background-color: rgba(255, 140, 0, 0.8); color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.3); } 
+        .general-header { background-color: rgba(226, 230, 234, 0.7); } 
+        
+        .divider { width: 4px; background-color: rgba(51, 51, 51, 0.8); border-radius: 2px; }
+
+        /* 4. Out of Stock Row Styling */
+        tr.out-of-stock td {
+            background-color: rgba(104, 103, 103, 0.662) !important;
+            color: #444;
+            text-decoration: line-through; 
+        }
+        
+        tr.out-of-stock td:last-child {
+            text-decoration: none; 
+        }
+    </style>
+</head>
+<body>
+
+    <div class="dashboard-container">
+        <div class="header-container">
+            <h1 style="margin:0; text-shadow: 1px 1px 3px rgba(255,255,255,0.8);">Stock Inventory</h1>
+            <div class="timestamp" id="lastUpdated">Loading timestamp...</div>
+        </div>
+
+        <table id="inventoryTable">
+            <thead>
+                <tr>
+                    <th rowspan="2" class="general-header">ITEM</th>
+                    <th rowspan="2" class="general-header">Total</th>
+                    <th colspan="2" class="sold-group">SOLD</th>
+                    <th rowspan="2" class="divider"></th>
+                    <th colspan="2" class="return-group">RETURN</th>
+                    <th rowspan="2" class="general-header">Damaged/Lost/Others</th>
+                    <th rowspan="2" class="general-header">Remaining</th>
+                </tr>
+                <tr>
+                    <th class="general-header">Amazon</th>
+                    <th class="general-header">Meesho</th>
+                    <th class="general-header">Amazon</th>
+                    <th class="general-header">Meesho</th>
+                </tr>
+            </thead>
+            <tbody id="tableBody">
+                </tbody>
+        </table>
+    </div>
+
+    <script>
+        fetch('data.json')
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('lastUpdated').textContent = "Last Updated: " + data.last_updated;
+                const tbody = document.getElementById('tableBody');
+                
+                data.inventory.forEach(row => {
+                    let remVal = Number(row.Remaining);
+                    let soldAmz = Number(row.Sold_Amazon);
+                    let soldMsh = Number(row.Sold_Meesho);
+                    let retAmz = Number(row.Return_Amazon);
+                    let retMsh = Number(row.Return_Meesho);
+
+                    let tr = document.createElement('tr');
+                    
+                    // Base colors mapped to RGBA for transparency
+                    let remStyle = "";
+                    let sAmzStyle = "background-color: rgba(252, 244, 163, 0.8);"; 
+                    let sMshStyle = "background-color: rgba(252, 244, 163, 0.8);";
+                    let rAmzStyle = "background-color: rgba(195, 230, 203, 0.8);"; 
+                    let rMshStyle = "background-color: rgba(195, 230, 203, 0.8);";
+                    let defaultGrey = "background-color: rgba(241, 243, 245, 0.8);";
+
+                    // Logic applied with transparent RGBA values
+                    if (remVal === 0) {
+                        tr.className = "out-of-stock";
+                    } else {
+                        // Remaining Colors
+                        if (remVal < 5) remStyle = "background-color: rgba(255, 77, 77, 0.8); color: white;"; 
+                        else if (remVal <= 15) remStyle = "background-color: rgba(255, 215, 0, 0.7);"; 
+                        else remStyle = "background-color: rgba(50, 205, 50, 0.75); color: white;"; 
+
+                        // Sold group (0 = Red)
+                        if (soldAmz === 0) sAmzStyle = "background-color: rgba(255, 77, 77, 0.8); color: white;";
+                        if (soldMsh === 0) sMshStyle = "background-color: rgba(255, 77, 77, 0.8); color: white;";
+
+                        // Return group (Non-zero = Red)
+                        if (retAmz !== 0) rAmzStyle = "background-color: rgba(255, 77, 77, 0.8); color: white;";
+                        if (retMsh !== 0) rMshStyle = "background-color: rgba(255, 77, 77, 0.8); color: white;";
+                    }
+
+                    tr.innerHTML = `
+                        <td>${row.ITEM}</td>
+                        <td style="${defaultGrey}">${row.Total}</td>
+                        <td style="${sAmzStyle}">${row.Sold_Amazon}</td>
+                        <td style="${sMshStyle}">${row.Sold_Meesho}</td>
+                        <td class="divider"></td>
+                        <td style="${rAmzStyle}">${row.Return_Amazon}</td>
+                        <td style="${rMshStyle}">${row.Return_Meesho}</td>
+                        <td style="${defaultGrey}">${row.Damaged_Lost_Others}</td>
+                        <td style="${remStyle}">${row.Remaining}</td>
+                    `;
+                    tbody.appendChild(tr);
+                });
+            })
+            .catch(error => console.error('Error loading data:', error));
+    </script>
+</body>
+</html>

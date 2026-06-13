@@ -1,36 +1,6 @@
 {
-    "last_updated": "13-06-2026 07:21 PM IST",
+    "last_updated": "13-06-2026 11:03 PM IST",
     "inventory": [
-        {
-            "ITEM": "Can Opener Green",
-            "Total": 19,
-            "Sold_Amazon": 19.0,
-            "Sold_Meesho": 0.0,
-            "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 0.0,
-            "Remaining": 0.0
-        },
-        {
-            "ITEM": "Can Opener Orange",
-            "Total": 20,
-            "Sold_Amazon": 16.0,
-            "Sold_Meesho": 3.0,
-            "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 1.0,
-            "Remaining": 0.0
-        },
-        {
-            "ITEM": "Can Opener Steel",
-            "Total": 9,
-            "Sold_Amazon": 6.0,
-            "Sold_Meesho": 3.0,
-            "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 0.0,
-            "Remaining": 0.0
-        },
         {
             "ITEM": "Washing Machine Pad",
             "Total": 50,
@@ -40,16 +10,6 @@
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 5.0
-        },
-        {
-            "ITEM": "Push Up Stand",
-            "Total": 50,
-            "Sold_Amazon": 23.0,
-            "Sold_Meesho": 26.0,
-            "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 1.0,
-            "Remaining": 0.0
         },
         {
             "ITEM": "Plastic Hanging Rack Beige",
@@ -80,36 +40,6 @@
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
             "Remaining": 7.0
-        },
-        {
-            "ITEM": "Herb Scissor Green",
-            "Total": 7,
-            "Sold_Amazon": 0.0,
-            "Sold_Meesho": 6.0,
-            "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 1.0,
-            "Remaining": 0.0
-        },
-        {
-            "ITEM": "Herb Scissor Pink",
-            "Total": 7,
-            "Sold_Amazon": 0.0,
-            "Sold_Meesho": 7.0,
-            "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 0.0,
-            "Remaining": 0.0
-        },
-        {
-            "ITEM": "Herb Scissor Blue",
-            "Total": 10,
-            "Sold_Amazon": 0.0,
-            "Sold_Meesho": 7.0,
-            "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 3.0,
-            "Remaining": 0.0
         },
         {
             "ITEM": "Knife Sharpner",
@@ -362,6 +292,16 @@
             "Remaining": 6.0
         },
         {
+            "ITEM": "Vegetable Bag",
+            "Total": 50,
+            "Sold_Amazon": 8.0,
+            "Sold_Meesho": 11.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 31.0
+        },
+        {
             "ITEM": "Shelf Liner Grey",
             "Total": 23,
             "Sold_Amazon": 0.0,
@@ -382,16 +322,6 @@
             "Remaining": 9.0
         },
         {
-            "ITEM": "Inflatable Pillow Black/Navy Blue",
-            "Total": 2,
-            "Sold_Amazon": 1.0,
-            "Sold_Meesho": 1.0,
-            "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 0.0,
-            "Remaining": 0.0
-        },
-        {
             "ITEM": "Inflatable Pillow Blue",
             "Total": 12,
             "Sold_Amazon": 9.0,
@@ -400,6 +330,16 @@
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
             "Remaining": 3.0
+        },
+        {
+            "ITEM": "Inflatable Pillow Black/Navy Blue",
+            "Total": 2,
+            "Sold_Amazon": 1.0,
+            "Sold_Meesho": 1.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
         },
         {
             "ITEM": "Inflatable Pillow Grey",
@@ -426,6 +366,76 @@
             "Total": 1,
             "Sold_Amazon": 0.0,
             "Sold_Meesho": 1.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Herb Scissor Green",
+            "Total": 7,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 6.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Herb Scissor Pink",
+            "Total": 7,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 7.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Herb Scissor Blue",
+            "Total": 10,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 7.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 3.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Push Up Stand",
+            "Total": 50,
+            "Sold_Amazon": 23.0,
+            "Sold_Meesho": 26.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Can Opener Green",
+            "Total": 19,
+            "Sold_Amazon": 19.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Can Opener Orange",
+            "Total": 20,
+            "Sold_Amazon": 16.0,
+            "Sold_Meesho": 3.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 0.0
+        },
+        {
+            "ITEM": "Can Opener Steel",
+            "Total": 9,
+            "Sold_Amazon": 6.0,
+            "Sold_Meesho": 3.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
@@ -490,16 +500,6 @@
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
             "Remaining": 0.0
-        },
-        {
-            "ITEM": "Vegetable Bag",
-            "Total": 50,
-            "Sold_Amazon": 8.0,
-            "Sold_Meesho": 11.0,
-            "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 0.0,
-            "Remaining": 31.0
         }
     ]
 }

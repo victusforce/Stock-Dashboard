@@ -12,15 +12,16 @@
             background: url('background.jpg') no-repeat center center fixed;
             background-size: cover;
             color: #222;
+            margin: 0; /* Reset default margin for better mobile fit */
         }
 
-        /* 2. Container made more transparent (alpha changed from 0.85 to 0.5) */
+        /* 2. Container made more transparent */
         .dashboard-container {
             background-color: rgba(255, 255, 255, 0.7); 
             padding: 20px;
             border-radius: 12px;
             box-shadow: 0 8px 16px rgba(0,0,0,0.3);
-            backdrop-filter: blur(8px); /* Increased blur to keep text readable over complex backgrounds */
+            backdrop-filter: blur(8px); 
         }
 
         .header-container {
@@ -39,13 +40,22 @@
             border-radius: 8px;
             font-size: 0.9em;
             font-weight: bold;
+            white-space: nowrap; /* Prevents timestamp from wrapping weirdly */
         }
 
-        /* 3. Modern Rounded Cells & Bolder Text */
+        /* 3. Responsive Table Wrapper */
+        .table-responsive {
+            width: 100%;
+            overflow-x: auto;
+            -webkit-overflow-scrolling: touch; /* Smooth scrolling on mobile iOS */
+        }
+
+        /* 4. Modern Rounded Cells & Bolder Text */
         table { 
             width: 100%; 
             border-collapse: separate; 
             border-spacing: 4px;       
+            min-width: 800px; /* Forces table to stay readable, triggers horizontal scroll on mobile */
         }
         
         th, td { 
@@ -54,7 +64,6 @@
             border-radius: 6px; 
         }
 
-        /* Making all values bolder per your request */
         td {
             font-weight: bold;
             font-size: 1.05em;
@@ -62,14 +71,14 @@
         
         td:first-child { text-align: left; background-color: rgba(241, 243, 245, 0.6); } 
 
-        /* Header Colors Converted to RGBA for Transparency */
+        /* Header Colors */
         .sold-group { background-color: rgba(50, 205, 50, 0.8); color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.3); } 
         .return-group { background-color: rgba(255, 140, 0, 0.8); color: white; text-shadow: 1px 1px 2px rgba(0,0,0,0.3); } 
         .general-header { background-color: rgba(226, 230, 234, 0.7); } 
         
         .divider { width: 4px; background-color: rgba(51, 51, 51, 0.8); border-radius: 2px; }
 
-        /* 4. Out of Stock Row Styling */
+        /* 5. Out of Stock Row Styling */
         tr.out-of-stock td {
             background-color: rgba(104, 103, 103, 0.662) !important;
             color: #444;
@@ -78,6 +87,25 @@
         
         tr.out-of-stock td:last-child {
             text-decoration: none; 
+        }
+
+        /* 6. MOBILE FRIENDLY MEDIA QUERY */
+        @media (max-width: 768px) {
+            body {
+                padding: 10px;
+            }
+            .dashboard-container {
+                padding: 15px;
+            }
+            /* Stack the header text and timestamp on small screens */
+            .header-container {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 10px;
+            }
+            h1 {
+                font-size: 1.5em;
+            }
         }
     </style>
 </head>
@@ -89,27 +117,29 @@
             <div class="timestamp" id="lastUpdated">Loading timestamp...</div>
         </div>
 
-        <table id="inventoryTable">
-            <thead>
-                <tr>
-                    <th rowspan="2" class="general-header">ITEM</th>
-                    <th rowspan="2" class="general-header">Total</th>
-                    <th colspan="2" class="sold-group">SOLD</th>
-                    <th rowspan="2" class="divider"></th>
-                    <th colspan="2" class="return-group">RETURN</th>
-                    <th rowspan="2" class="general-header">Damaged/Lost/Others</th>
-                    <th rowspan="2" class="general-header">Remaining</th>
-                </tr>
-                <tr>
-                    <th class="general-header">Amazon</th>
-                    <th class="general-header">Meesho</th>
-                    <th class="general-header">Amazon</th>
-                    <th class="general-header">Meesho</th>
-                </tr>
-            </thead>
-            <tbody id="tableBody">
+        <div class="table-responsive">
+            <table id="inventoryTable">
+                <thead>
+                    <tr>
+                        <th rowspan="2" class="general-header">ITEM</th>
+                        <th rowspan="2" class="general-header">Total</th>
+                        <th colspan="2" class="sold-group">SOLD</th>
+                        <th rowspan="2" class="divider"></th>
+                        <th colspan="2" class="return-group">RETURN</th>
+                        <th rowspan="2" class="general-header">Damaged/Lost/Others</th>
+                        <th rowspan="2" class="general-header">Remaining</th>
+                    </tr>
+                    <tr>
+                        <th class="general-header">Amazon</th>
+                        <th class="general-header">Meesho</th>
+                        <th class="general-header">Amazon</th>
+                        <th class="general-header">Meesho</th>
+                    </tr>
+                </thead>
+                <tbody id="tableBody">
                 </tbody>
-        </table>
+            </table>
+        </div>
     </div>
 
     <script>

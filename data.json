@@ -1,5 +1,5 @@
 {
-    "last_updated": "14-06-2026 07:48 PM IST",
+    "last_updated": "14-06-2026 11:18 PM IST",
     "inventory": [
         {
             "ITEM": "Washing Machine Pad",
@@ -67,9 +67,9 @@
             "Sold_Amazon": 0.0,
             "Sold_Meesho": 32.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 16.0
+            "Remaining": 17.0
         },
         {
             "ITEM": "Gel Eye Mask",

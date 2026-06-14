@@ -1,5 +1,5 @@
 {
-    "last_updated": "13-06-2026 11:03 PM IST",
+    "last_updated": "14-06-2026 07:48 PM IST",
     "inventory": [
         {
             "ITEM": "Washing Machine Pad",
@@ -44,12 +44,12 @@
         {
             "ITEM": "Knife Sharpner",
             "Total": 25,
-            "Sold_Amazon": 11.0,
+            "Sold_Amazon": 12.0,
             "Sold_Meesho": 7.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 6.0
+            "Remaining": 5.0
         },
         {
             "ITEM": "Kitchen Scissor Red",
@@ -75,11 +75,11 @@
             "ITEM": "Gel Eye Mask",
             "Total": 48,
             "Sold_Amazon": 5.0,
-            "Sold_Meesho": 14.0,
+            "Sold_Meesho": 15.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 30.0
+            "Remaining": 29.0
         },
         {
             "ITEM": "Hot and Cold Gel Pack Blue",
@@ -126,20 +126,20 @@
             "Total": 320,
             "Sold_Amazon": 22.0,
             "Sold_Meesho": 197.0,
-            "Return_Amazon": 0.0,
+            "Return_Amazon": 2.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 100.0
+            "Remaining": 102.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 446.0,
+            "Sold_Meesho": 449.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 5.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 150.0
+            "Remaining": 147.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -284,12 +284,12 @@
         {
             "ITEM": "Travel Kit Grey",
             "Total": 16,
-            "Sold_Amazon": 9.0,
+            "Sold_Amazon": 10.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 6.0
+            "Remaining": 5.0
         },
         {
             "ITEM": "Vegetable Bag",
@@ -314,12 +314,12 @@
         {
             "ITEM": "Shelf Liner White",
             "Total": 25,
-            "Sold_Amazon": 9.0,
+            "Sold_Amazon": 10.0,
             "Sold_Meesho": 7.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 9.0
+            "Remaining": 8.0
         },
         {
             "ITEM": "Inflatable Pillow Blue",

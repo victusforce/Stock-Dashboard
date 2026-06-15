@@ -1,5 +1,5 @@
 {
-    "last_updated": "15-06-2026 12:28 AM IST",
+    "last_updated": "15-06-2026 07:48 PM IST",
     "inventory": [
         {
             "ITEM": "Washing Machine Pad",
@@ -24,12 +24,12 @@
         {
             "ITEM": "Plastic Hanging Rack Grey",
             "Total": 18,
-            "Sold_Amazon": 13.0,
+            "Sold_Amazon": 15.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 5.0
+            "Remaining": 3.0
         },
         {
             "ITEM": "Plastic Hanging Rack Black",
@@ -95,11 +95,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 65.0,
+            "Sold_Meesho": 66.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 77.0
+            "Remaining": 76.0
         },
         {
             "ITEM": "Shoe Bag Grey",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "15-06-2026 07:50 PM IST",
+    "last_updated": "15-06-2026 11:06 PM IST",
     "inventory": [
         {
             "ITEM": "Washing Machine Pad",
@@ -45,11 +45,11 @@
             "ITEM": "Knife Sharpner",
             "Total": 25,
             "Sold_Amazon": 12.0,
-            "Sold_Meesho": 7.0,
+            "Sold_Meesho": 8.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 5.0
+            "Remaining": 4.0
         },
         {
             "ITEM": "Kitchen Scissor Red",
@@ -95,9 +95,9 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 66.0,
+            "Sold_Meesho": 65.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 2.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 0.0,
             "Remaining": 76.0
         },

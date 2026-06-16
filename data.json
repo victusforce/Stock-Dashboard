@@ -1,5 +1,5 @@
 {
-    "last_updated": "15-06-2026 11:06 PM IST",
+    "last_updated": "16-06-2026 07:50 PM IST",
     "inventory": [
         {
             "ITEM": "Washing Machine Pad",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 449.0,
+            "Sold_Meesho": 450.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 5.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 147.0
+            "Remaining": 146.0
         },
         {
             "ITEM": "Yoga Pad Beige",

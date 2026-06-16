@@ -1,5 +1,5 @@
 {
-    "last_updated": "16-06-2026 07:50 PM IST",
+    "last_updated": "16-06-2026 07:56 PM IST",
     "inventory": [
         {
             "ITEM": "Washing Machine Pad",
@@ -95,21 +95,21 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 65.0,
+            "Sold_Meesho": 66.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 76.0
+            "Remaining": 75.0
         },
         {
             "ITEM": "Shoe Bag Grey",
             "Total": 15,
-            "Sold_Amazon": 4.0,
+            "Sold_Amazon": 8.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 11.0
+            "Remaining": 7.0
         },
         {
             "ITEM": "Shoe Bag Blue",

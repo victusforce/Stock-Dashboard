@@ -1,5 +1,5 @@
 {
-    "last_updated": "19-06-2026 03:03 AM IST",
+    "last_updated": "19-06-2026 01:55 PM IST",
     "inventory": [
         {
             "ITEM": "Washing Machine Pad",
@@ -124,9 +124,9 @@
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 23.0,
+            "Sold_Amazon": 21.0,
             "Sold_Meesho": 197.0,
-            "Return_Amazon": 2.0,
+            "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 101.0

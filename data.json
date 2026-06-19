@@ -1,5 +1,5 @@
 {
-    "last_updated": "19-06-2026 03:03 PM IST",
+    "last_updated": "19-06-2026 04:55 PM IST",
     "inventory": [
         {
             "ITEM": "Washing Machine Pad",
@@ -45,11 +45,11 @@
             "ITEM": "Knife Sharpner",
             "Total": 25,
             "Sold_Amazon": 12.0,
-            "Sold_Meesho": 8.0,
+            "Sold_Meesho": 9.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 4.0
+            "Remaining": 3.0
         },
         {
             "ITEM": "Kitchen Scissor Red",
@@ -117,9 +117,9 @@
             "Sold_Amazon": 4.0,
             "Sold_Meesho": 5.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
+            "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 25.0
+            "Remaining": 27.0
         },
         {
             "ITEM": "Stove Ring",
@@ -127,19 +127,19 @@
             "Sold_Amazon": 21.0,
             "Sold_Meesho": 197.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 101.0
+            "Remaining": 102.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 452.0,
+            "Sold_Meesho": 455.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 6.0,
+            "Return_Meesho": 5.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 145.0
+            "Remaining": 141.0
         },
         {
             "ITEM": "Yoga Pad Beige",

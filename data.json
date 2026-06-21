@@ -1,5 +1,5 @@
 {
-    "last_updated": "20-06-2026 09:03 PM IST",
+    "last_updated": "21-06-2026 07:59 PM IST",
     "inventory": [
         {
             "ITEM": "Washing Machine Pad",
@@ -97,9 +97,9 @@
             "Sold_Amazon": 2.0,
             "Sold_Meesho": 67.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 1.0,
+            "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 74.0
+            "Remaining": 75.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 456.0,
+            "Sold_Meesho": 460.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 5.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 140.0
+            "Remaining": 136.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -244,12 +244,12 @@
         {
             "ITEM": "Folding Stool Medium Green",
             "Total": 30,
-            "Sold_Amazon": 5.0,
+            "Sold_Amazon": 6.0,
             "Sold_Meesho": 6.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 19.0
+            "Remaining": 18.0
         },
         {
             "ITEM": "Folding Stool Large Brown",
@@ -286,10 +286,10 @@
             "Total": 16,
             "Sold_Amazon": 10.0,
             "Sold_Meesho": 0.0,
-            "Return_Amazon": 0.0,
+            "Return_Amazon": 1.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 5.0
+            "Remaining": 6.0
         },
         {
             "ITEM": "Vegetable Bag",

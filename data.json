@@ -1,5 +1,5 @@
 {
-    "last_updated": "22-06-2026 09:03 PM IST",
+    "last_updated": "23-06-2026 07:38 PM IST",
     "inventory": [
         {
             "ITEM": "Washing Machine Pad",
@@ -95,11 +95,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 66.0,
+            "Sold_Meesho": 67.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 75.0
+            "Remaining": 74.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 455.0,
+            "Sold_Meesho": 456.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 137.0
+            "Remaining": 136.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -284,9 +284,9 @@
         {
             "ITEM": "Travel Kit Grey",
             "Total": 16,
-            "Sold_Amazon": 10.0,
+            "Sold_Amazon": 9.0,
             "Sold_Meesho": 0.0,
-            "Return_Amazon": 1.0,
+            "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 6.0

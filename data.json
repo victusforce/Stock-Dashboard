@@ -1,5 +1,5 @@
 {
-    "last_updated": "24-06-2026 08:03 PM IST",
+    "last_updated": "25-06-2026 08:03 PM IST",
     "inventory": [
         {
             "ITEM": "Washing Machine Pad",
@@ -65,11 +65,11 @@
             "ITEM": "Kitchen Scissor White",
             "Total": 49,
             "Sold_Amazon": 0.0,
-            "Sold_Meesho": 32.0,
+            "Sold_Meesho": 33.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 17.0
+            "Remaining": 16.0
         },
         {
             "ITEM": "Gel Eye Mask",
@@ -135,9 +135,9 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 459.0,
+            "Sold_Meesho": 460.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 1.0,
+            "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 2.0,
             "Remaining": 133.0
         },
@@ -284,12 +284,12 @@
         {
             "ITEM": "Travel Kit Grey",
             "Total": 16,
-            "Sold_Amazon": 9.0,
+            "Sold_Amazon": 10.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 6.0
+            "Remaining": 5.0
         },
         {
             "ITEM": "Vegetable Bag",

@@ -1,8 +1,8 @@
 {
-    "last_updated": "26-06-2026 09:03 PM IST",
+    "last_updated": "27-06-2026 01:04 AM IST",
     "inventory": [
         {
-            "ITEM": "Washing Machine Pad",
+            "ITEM": "Anti Vibration Pad Grey",
             "Total": 50,
             "Sold_Amazon": 4.0,
             "Sold_Meesho": 40.0,
@@ -10,6 +10,16 @@
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 5.0
+        },
+        {
+            "ITEM": "Anti Vibration Pad Ivory",
+            "Total": 50,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 50.0
         },
         {
             "ITEM": "Plastic Hanging Rack Beige",
@@ -330,6 +340,26 @@
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
             "Remaining": 3.0
+        },
+        {
+            "ITEM": "Laundry Star",
+            "Total": 30,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 30.0
+        },
+        {
+            "ITEM": "Laundry Ball",
+            "Total": 30,
+            "Sold_Amazon": 0.0,
+            "Sold_Meesho": 0.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 0.0,
+            "Remaining": 30.0
         },
         {
             "ITEM": "Inflatable Pillow Black/Navy Blue",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "27-06-2026 03:09 PM IST",
+    "last_updated": "27-06-2026 06:03 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -54,12 +54,12 @@
         {
             "ITEM": "Knife Sharpner",
             "Total": 25,
-            "Sold_Amazon": 12.0,
+            "Sold_Amazon": 13.0,
             "Sold_Meesho": 10.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 2.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Kitchen Scissor Red",

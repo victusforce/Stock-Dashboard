@@ -1,5 +1,5 @@
 {
-    "last_updated": "29-06-2026 12:23 AM IST",
+    "last_updated": "29-06-2026 09:41 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -24,12 +24,12 @@
         {
             "ITEM": "Plastic Hanging Rack Beige",
             "Total": 18,
-            "Sold_Amazon": 7.0,
+            "Sold_Amazon": 8.0,
             "Sold_Meesho": 2.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 9.0
+            "Remaining": 8.0
         },
         {
             "ITEM": "Plastic Hanging Rack Grey",
@@ -358,8 +358,8 @@
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 0.0,
-            "Remaining": 120.0
+            "Damaged_Lost_Others": 6.0,
+            "Remaining": 114.0
         },
         {
             "ITEM": "Inflatable Pillow Black/Navy Blue",

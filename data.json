@@ -1,5 +1,5 @@
 {
-    "last_updated": "29-06-2026 09:41 PM IST",
+    "last_updated": "30-06-2026 12:56 AM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -57,9 +57,9 @@
             "Sold_Amazon": 13.0,
             "Sold_Meesho": 10.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 1.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Kitchen Scissor Red",

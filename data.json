@@ -1,5 +1,5 @@
 {
-    "last_updated": "30-06-2026 07:45 PM IST",
+    "last_updated": "30-06-2026 09:03 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -75,9 +75,9 @@
             "ITEM": "Kitchen Scissor White",
             "Total": 49,
             "Sold_Amazon": 0.0,
-            "Sold_Meesho": 33.0,
+            "Sold_Meesho": 32.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 1.0,
+            "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 16.0
         },
@@ -145,11 +145,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 463.0,
+            "Sold_Meesho": 462.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 130.0
+            "Remaining": 131.0
         },
         {
             "ITEM": "Yoga Pad Beige",

@@ -1,15 +1,15 @@
 {
-    "last_updated": "30-06-2026 12:56 AM IST",
+    "last_updated": "30-06-2026 07:45 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
             "Total": 50,
             "Sold_Amazon": 4.0,
-            "Sold_Meesho": 40.0,
+            "Sold_Meesho": 41.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 5.0
+            "Remaining": 4.0
         },
         {
             "ITEM": "Anti Vibration Pad Ivory",
@@ -105,11 +105,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 67.0,
+            "Sold_Meesho": 70.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 74.0
+            "Remaining": 71.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -145,11 +145,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 462.0,
+            "Sold_Meesho": 463.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 131.0
+            "Remaining": 130.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -184,12 +184,12 @@
         {
             "ITEM": "Yoga Pad Pink",
             "Total": 24,
-            "Sold_Amazon": 0.0,
+            "Sold_Amazon": 1.0,
             "Sold_Meesho": 13.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 11.0
+            "Remaining": 10.0
         },
         {
             "ITEM": "Yoga Pad Violet",
@@ -294,12 +294,12 @@
         {
             "ITEM": "Travel Kit Grey",
             "Total": 16,
-            "Sold_Amazon": 10.0,
+            "Sold_Amazon": 11.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 5.0
+            "Remaining": 4.0
         },
         {
             "ITEM": "Vegetable Bag",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "01-07-2026 08:04 PM IST",
+    "last_updated": "03-07-2026 03:03 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -85,11 +85,11 @@
             "ITEM": "Gel Eye Mask",
             "Total": 48,
             "Sold_Amazon": 5.0,
-            "Sold_Meesho": 15.0,
+            "Sold_Meesho": 16.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 29.0
+            "Remaining": 28.0
         },
         {
             "ITEM": "Hot and Cold Gel Pack Blue",
@@ -134,22 +134,22 @@
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 28.0,
+            "Sold_Amazon": 33.0,
             "Sold_Meesho": 199.0,
-            "Return_Amazon": 0.0,
+            "Return_Amazon": 1.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 93.0
+            "Remaining": 89.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 464.0,
+            "Sold_Meesho": 468.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 2.0,
+            "Return_Meesho": 4.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 129.0
+            "Remaining": 127.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -334,12 +334,12 @@
         {
             "ITEM": "Inflatable Pillow Blue",
             "Total": 12,
-            "Sold_Amazon": 9.0,
+            "Sold_Amazon": 10.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 3.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Laundry Star",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "04-07-2026 08:30 PM IST",
+    "last_updated": "05-07-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -56,10 +56,10 @@
             "Total": 25,
             "Sold_Amazon": 14.0,
             "Sold_Meesho": 10.0,
-            "Return_Amazon": 0.0,
+            "Return_Amazon": 1.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 1.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Kitchen Scissor Red",
@@ -105,11 +105,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 75.0,
+            "Sold_Meesho": 76.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 66.0
+            "Remaining": 65.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -145,11 +145,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 470.0,
+            "Sold_Meesho": 471.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 4.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 125.0
+            "Remaining": 124.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -254,12 +254,12 @@
         {
             "ITEM": "Folding Stool Medium Green",
             "Total": 30,
-            "Sold_Amazon": 8.0,
+            "Sold_Amazon": 9.0,
             "Sold_Meesho": 6.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 16.0
+            "Remaining": 15.0
         },
         {
             "ITEM": "Folding Stool Large Brown",

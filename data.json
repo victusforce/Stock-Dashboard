@@ -1,5 +1,5 @@
 {
-    "last_updated": "06-07-2026 08:30 PM IST",
+    "last_updated": "07-07-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -34,12 +34,12 @@
         {
             "ITEM": "Plastic Hanging Rack Grey",
             "Total": 18,
-            "Sold_Amazon": 16.0,
+            "Sold_Amazon": 17.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 2.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Plastic Hanging Rack Black",
@@ -105,9 +105,9 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 76.0,
+            "Sold_Meesho": 75.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 1.0,
+            "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
             "Remaining": 65.0
         },
@@ -125,31 +125,31 @@
             "ITEM": "Shoe Bag Blue",
             "Total": 34,
             "Sold_Amazon": 4.0,
-            "Sold_Meesho": 5.0,
+            "Sold_Meesho": 3.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 2.0,
+            "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
             "Remaining": 27.0
         },
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 36.0,
-            "Sold_Meesho": 199.0,
+            "Sold_Amazon": 39.0,
+            "Sold_Meesho": 198.0,
             "Return_Amazon": 1.0,
-            "Return_Meesho": 1.0,
+            "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 86.0
+            "Remaining": 83.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 471.0,
+            "Sold_Meesho": 469.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 4.0,
+            "Return_Meesho": 3.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 124.0
+            "Remaining": 125.0
         },
         {
             "ITEM": "Yoga Pad Beige",

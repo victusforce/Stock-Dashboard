@@ -1,5 +1,5 @@
 {
-    "last_updated": "07-07-2026 08:30 PM IST",
+    "last_updated": "08-07-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -56,10 +56,10 @@
             "Total": 25,
             "Sold_Amazon": 14.0,
             "Sold_Meesho": 10.0,
-            "Return_Amazon": 1.0,
+            "Return_Amazon": 2.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 2.0
+            "Remaining": 3.0
         },
         {
             "ITEM": "Kitchen Scissor Red",
@@ -134,12 +134,12 @@
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 39.0,
+            "Sold_Amazon": 41.0,
             "Sold_Meesho": 198.0,
-            "Return_Amazon": 1.0,
+            "Return_Amazon": 2.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 83.0
+            "Remaining": 82.0
         },
         {
             "ITEM": "Medicine Box",
@@ -324,12 +324,12 @@
         {
             "ITEM": "Shelf Liner White",
             "Total": 25,
-            "Sold_Amazon": 10.0,
+            "Sold_Amazon": 11.0,
             "Sold_Meesho": 7.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 8.0
+            "Remaining": 7.0
         },
         {
             "ITEM": "Inflatable Pillow Blue",

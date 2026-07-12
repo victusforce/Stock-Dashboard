@@ -1,5 +1,5 @@
 {
-    "last_updated": "11-07-2026 08:30 PM IST",
+    "last_updated": "12-07-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -7,19 +7,19 @@
             "Sold_Amazon": 4.0,
             "Sold_Meesho": 41.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 4.0
+            "Remaining": 5.0
         },
         {
             "ITEM": "Anti Vibration Pad Ivory",
             "Total": 50,
             "Sold_Amazon": 0.0,
-            "Sold_Meesho": 0.0,
+            "Sold_Meesho": 1.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 50.0
+            "Remaining": 49.0
         },
         {
             "ITEM": "Plastic Hanging Rack Beige",
@@ -34,12 +34,12 @@
         {
             "ITEM": "Plastic Hanging Rack Grey",
             "Total": 18,
-            "Sold_Amazon": 17.0,
+            "Sold_Amazon": 18.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 1.0
+            "Remaining": 0.0
         },
         {
             "ITEM": "Plastic Hanging Rack Black",
@@ -87,9 +87,9 @@
             "Sold_Amazon": 5.0,
             "Sold_Meesho": 16.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 1.0,
+            "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 28.0
+            "Remaining": 27.0
         },
         {
             "ITEM": "Hot and Cold Gel Pack Blue",
@@ -105,21 +105,21 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 77.0,
+            "Sold_Meesho": 79.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 63.0
+            "Remaining": 61.0
         },
         {
             "ITEM": "Shoe Bag Grey",
             "Total": 15,
-            "Sold_Amazon": 8.0,
+            "Sold_Amazon": 12.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 7.0
+            "Remaining": 3.0
         },
         {
             "ITEM": "Shoe Bag Blue",
@@ -136,20 +136,20 @@
             "Total": 320,
             "Sold_Amazon": 44.0,
             "Sold_Meesho": 198.0,
-            "Return_Amazon": 2.0,
+            "Return_Amazon": 3.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 79.0
+            "Remaining": 80.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 473.0,
+            "Sold_Meesho": 470.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 3.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 121.0
+            "Remaining": 122.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -254,12 +254,12 @@
         {
             "ITEM": "Folding Stool Medium Green",
             "Total": 30,
-            "Sold_Amazon": 9.0,
+            "Sold_Amazon": 10.0,
             "Sold_Meesho": 6.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 15.0
+            "Remaining": 14.0
         },
         {
             "ITEM": "Folding Stool Large Brown",
@@ -325,11 +325,11 @@
             "ITEM": "Shelf Liner White",
             "Total": 25,
             "Sold_Amazon": 13.0,
-            "Sold_Meesho": 7.0,
+            "Sold_Meesho": 6.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 5.0
+            "Remaining": 6.0
         },
         {
             "ITEM": "Inflatable Pillow Blue",

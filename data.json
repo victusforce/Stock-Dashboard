@@ -1,5 +1,5 @@
 {
-    "last_updated": "14-07-2026 08:30 PM IST",
+    "last_updated": "15-07-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -44,12 +44,12 @@
         {
             "ITEM": "Plastic Hanging Rack Black",
             "Total": 14,
-            "Sold_Amazon": 3.0,
+            "Sold_Amazon": 4.0,
             "Sold_Meesho": 4.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 7.0
+            "Remaining": 6.0
         },
         {
             "ITEM": "Knife Sharpner",
@@ -65,11 +65,11 @@
             "ITEM": "Kitchen Scissor Red",
             "Total": 26,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 4.0,
+            "Sold_Meesho": 5.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 20.0
+            "Remaining": 19.0
         },
         {
             "ITEM": "Kitchen Scissor White",
@@ -104,22 +104,22 @@
         {
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
-            "Sold_Amazon": 2.0,
+            "Sold_Amazon": 3.0,
             "Sold_Meesho": 80.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 60.0
+            "Remaining": 59.0
         },
         {
             "ITEM": "Shoe Bag Grey",
             "Total": 15,
-            "Sold_Amazon": 8.0,
+            "Sold_Amazon": 12.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 0.0,
-            "Remaining": 7.0
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 2.0
         },
         {
             "ITEM": "Shoe Bag Blue",
@@ -134,22 +134,22 @@
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 47.0,
+            "Sold_Amazon": 49.0,
             "Sold_Meesho": 199.0,
             "Return_Amazon": 3.0,
-            "Return_Meesho": 0.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 76.0
+            "Remaining": 75.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 474.0,
+            "Sold_Meesho": 477.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 118.0
+            "Remaining": 115.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -294,12 +294,12 @@
         {
             "ITEM": "Travel Kit Grey",
             "Total": 16,
-            "Sold_Amazon": 12.0,
+            "Sold_Amazon": 13.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 3.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Vegetable Bag",

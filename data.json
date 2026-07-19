@@ -1,5 +1,5 @@
 {
-    "last_updated": "18-07-2026 10:46 PM IST",
+    "last_updated": "19-07-2026 10:45 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -44,12 +44,12 @@
         {
             "ITEM": "Plastic Hanging Rack Black",
             "Total": 14,
-            "Sold_Amazon": 4.0,
+            "Sold_Amazon": 5.0,
             "Sold_Meesho": 4.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 6.0
+            "Remaining": 5.0
         },
         {
             "ITEM": "Knife Sharpner",
@@ -105,11 +105,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 81.0,
+            "Sold_Meesho": 82.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 59.0
+            "Remaining": 58.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -145,11 +145,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 484.0,
+            "Sold_Meesho": 486.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 109.0
+            "Remaining": 107.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -244,12 +244,12 @@
         {
             "ITEM": "Folding Stool Medium Brown",
             "Total": 22,
-            "Sold_Amazon": 9.0,
+            "Sold_Amazon": 10.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 12.0
+            "Remaining": 11.0
         },
         {
             "ITEM": "Folding Stool Medium Green",

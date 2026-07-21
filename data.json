@@ -1,5 +1,5 @@
 {
-    "last_updated": "20-07-2026 08:30 PM IST",
+    "last_updated": "21-07-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -44,12 +44,12 @@
         {
             "ITEM": "Plastic Hanging Rack Black",
             "Total": 14,
-            "Sold_Amazon": 5.0,
+            "Sold_Amazon": 7.0,
             "Sold_Meesho": 4.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 5.0
+            "Remaining": 3.0
         },
         {
             "ITEM": "Knife Sharpner",
@@ -105,11 +105,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 83.0,
+            "Sold_Meesho": 84.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 57.0
+            "Remaining": 56.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -145,11 +145,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 487.0,
+            "Sold_Meesho": 494.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 106.0
+            "Remaining": 99.0
         },
         {
             "ITEM": "Yoga Pad Beige",

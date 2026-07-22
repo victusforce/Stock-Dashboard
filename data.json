@@ -1,5 +1,5 @@
 {
-    "last_updated": "21-07-2026 08:30 PM IST",
+    "last_updated": "22-07-2026 09:14 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -44,19 +44,19 @@
         {
             "ITEM": "Plastic Hanging Rack Black",
             "Total": 14,
-            "Sold_Amazon": 7.0,
+            "Sold_Amazon": 8.0,
             "Sold_Meesho": 4.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 3.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Knife Sharpner",
             "Total": 25,
-            "Sold_Amazon": 14.0,
+            "Sold_Amazon": 13.0,
             "Sold_Meesho": 10.0,
-            "Return_Amazon": 1.0,
+            "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 2.0
@@ -134,22 +134,22 @@
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 48.0,
+            "Sold_Amazon": 49.0,
             "Sold_Meesho": 200.0,
             "Return_Amazon": 1.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 73.0
+            "Remaining": 72.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 494.0,
+            "Sold_Meesho": 495.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 99.0
+            "Remaining": 98.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -294,12 +294,12 @@
         {
             "ITEM": "Travel Kit Grey",
             "Total": 16,
-            "Sold_Amazon": 12.0,
+            "Sold_Amazon": 11.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 3.0
+            "Remaining": 4.0
         },
         {
             "ITEM": "Vegetable Bag",
@@ -324,12 +324,12 @@
         {
             "ITEM": "Shelf Liner White",
             "Total": 25,
-            "Sold_Amazon": 13.0,
+            "Sold_Amazon": 14.0,
             "Sold_Meesho": 6.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 6.0
+            "Remaining": 5.0
         },
         {
             "ITEM": "Inflatable Pillow Blue",

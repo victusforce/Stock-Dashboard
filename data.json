@@ -1,5 +1,5 @@
 {
-    "last_updated": "23-07-2026 08:34 PM IST",
+    "last_updated": "24-07-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -24,12 +24,12 @@
         {
             "ITEM": "Plastic Hanging Rack Beige",
             "Total": 18,
-            "Sold_Amazon": 8.0,
+            "Sold_Amazon": 9.0,
             "Sold_Meesho": 2.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 8.0
+            "Remaining": 7.0
         },
         {
             "ITEM": "Plastic Hanging Rack Grey",
@@ -44,12 +44,12 @@
         {
             "ITEM": "Plastic Hanging Rack Black",
             "Total": 14,
-            "Sold_Amazon": 8.0,
+            "Sold_Amazon": 9.0,
             "Sold_Meesho": 4.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 2.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Knife Sharpner",
@@ -134,22 +134,22 @@
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 53.0,
+            "Sold_Amazon": 54.0,
             "Sold_Meesho": 200.0,
             "Return_Amazon": 1.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 68.0
+            "Remaining": 67.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 501.0,
+            "Sold_Meesho": 502.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 2.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 92.0
+            "Remaining": 90.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -184,12 +184,12 @@
         {
             "ITEM": "Yoga Pad Pink",
             "Total": 24,
-            "Sold_Amazon": 1.0,
+            "Sold_Amazon": 2.0,
             "Sold_Meesho": 14.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 9.0
+            "Remaining": 8.0
         },
         {
             "ITEM": "Yoga Pad Violet",
@@ -334,12 +334,12 @@
         {
             "ITEM": "Inflatable Pillow Blue",
             "Total": 12,
-            "Sold_Amazon": 10.0,
+            "Sold_Amazon": 11.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 2.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Laundry Star",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "24-07-2026 08:30 PM IST",
+    "last_updated": "25-07-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -145,11 +145,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 502.0,
+            "Sold_Meesho": 505.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 90.0
+            "Remaining": 87.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -354,12 +354,12 @@
         {
             "ITEM": "Laundry Ball",
             "Total": 120,
-            "Sold_Amazon": 10.0,
+            "Sold_Amazon": 20.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 6.0,
-            "Remaining": 104.0
+            "Remaining": 94.0
         },
         {
             "ITEM": "Inflatable Pillow Black/Navy Blue",

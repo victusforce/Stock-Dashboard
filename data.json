@@ -1,5 +1,5 @@
 {
-    "last_updated": "29-07-2026 08:30 PM IST",
+    "last_updated": "30-07-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -54,12 +54,12 @@
         {
             "ITEM": "Knife Sharpner",
             "Total": 25,
-            "Sold_Amazon": 13.0,
+            "Sold_Amazon": 14.0,
             "Sold_Meesho": 10.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 2.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Kitchen Scissor Red",
@@ -135,8 +135,8 @@
             "ITEM": "Stove Ring",
             "Total": 320,
             "Sold_Amazon": 61.0,
-            "Sold_Meesho": 201.0,
-            "Return_Amazon": 1.0,
+            "Sold_Meesho": 200.0,
+            "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 60.0
@@ -145,11 +145,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 518.0,
+            "Sold_Meesho": 519.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 2.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 75.0
+            "Remaining": 73.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -184,12 +184,12 @@
         {
             "ITEM": "Yoga Pad Pink",
             "Total": 24,
-            "Sold_Amazon": 3.0,
+            "Sold_Amazon": 5.0,
             "Sold_Meesho": 14.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 7.0
+            "Remaining": 5.0
         },
         {
             "ITEM": "Yoga Pad Violet",
@@ -344,12 +344,12 @@
         {
             "ITEM": "Laundry Ball",
             "Total": 120,
-            "Sold_Amazon": 15.0,
+            "Sold_Amazon": 20.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 6.0,
-            "Remaining": 99.0
+            "Remaining": 94.0
         },
         {
             "ITEM": "Inflatable Pillow Blue",

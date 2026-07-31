@@ -1,5 +1,5 @@
 {
-    "last_updated": "30-07-2026 08:30 PM IST",
+    "last_updated": "31-07-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -52,16 +52,6 @@
             "Remaining": 1.0
         },
         {
-            "ITEM": "Knife Sharpner",
-            "Total": 25,
-            "Sold_Amazon": 14.0,
-            "Sold_Meesho": 10.0,
-            "Return_Amazon": 0.0,
-            "Return_Meesho": 1.0,
-            "Damaged_Lost_Others": 1.0,
-            "Remaining": 1.0
-        },
-        {
             "ITEM": "Kitchen Scissor Red",
             "Total": 26,
             "Sold_Amazon": 2.0,
@@ -105,11 +95,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 86.0,
+            "Sold_Meesho": 87.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 54.0
+            "Remaining": 53.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -135,21 +125,21 @@
             "ITEM": "Stove Ring",
             "Total": 320,
             "Sold_Amazon": 61.0,
-            "Sold_Meesho": 200.0,
+            "Sold_Meesho": 199.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 60.0
+            "Remaining": 61.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 519.0,
+            "Sold_Meesho": 521.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 73.0
+            "Remaining": 71.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -184,12 +174,12 @@
         {
             "ITEM": "Yoga Pad Pink",
             "Total": 24,
-            "Sold_Amazon": 5.0,
+            "Sold_Amazon": 6.0,
             "Sold_Meesho": 14.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 5.0
+            "Remaining": 4.0
         },
         {
             "ITEM": "Yoga Pad Violet",
@@ -244,22 +234,22 @@
         {
             "ITEM": "Folding Stool Medium Brown",
             "Total": 22,
-            "Sold_Amazon": 13.0,
+            "Sold_Amazon": 14.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 8.0
+            "Remaining": 7.0
         },
         {
             "ITEM": "Folding Stool Medium Green",
             "Total": 30,
-            "Sold_Amazon": 11.0,
+            "Sold_Amazon": 12.0,
             "Sold_Meesho": 6.0,
             "Return_Amazon": 1.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 14.0
+            "Remaining": 13.0
         },
         {
             "ITEM": "Folding Stool Large Brown",
@@ -344,12 +334,22 @@
         {
             "ITEM": "Laundry Ball",
             "Total": 120,
-            "Sold_Amazon": 20.0,
+            "Sold_Amazon": 25.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 6.0,
-            "Remaining": 94.0
+            "Remaining": 89.0
+        },
+        {
+            "ITEM": "Knife Sharpner",
+            "Total": 25,
+            "Sold_Amazon": 14.0,
+            "Sold_Meesho": 10.0,
+            "Return_Amazon": 0.0,
+            "Return_Meesho": 0.0,
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 0.0
         },
         {
             "ITEM": "Inflatable Pillow Blue",

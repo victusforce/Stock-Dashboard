@@ -1,5 +1,5 @@
 {
-    "last_updated": "02-08-2026 08:30 PM IST",
+    "last_updated": "03-08-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 530.0,
+            "Sold_Meesho": 532.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 3.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 64.0
+            "Remaining": 62.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -236,10 +236,10 @@
             "Total": 22,
             "Sold_Amazon": 14.0,
             "Sold_Meesho": 0.0,
-            "Return_Amazon": 0.0,
+            "Return_Amazon": 1.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 7.0
+            "Remaining": 8.0
         },
         {
             "ITEM": "Folding Stool Medium Green",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "03-08-2026 08:30 PM IST",
+    "last_updated": "04-08-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -24,12 +24,12 @@
         {
             "ITEM": "Plastic Hanging Rack Beige",
             "Total": 18,
-            "Sold_Amazon": 8.0,
+            "Sold_Amazon": 9.0,
             "Sold_Meesho": 2.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 8.0
+            "Remaining": 7.0
         },
         {
             "ITEM": "Plastic Hanging Rack Grey",
@@ -173,23 +173,23 @@
         },
         {
             "ITEM": "Yoga Pad Pink",
-            "Total": 24,
-            "Sold_Amazon": 7.0,
+            "Total": 25,
+            "Sold_Amazon": 9.0,
             "Sold_Meesho": 14.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 3.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Yoga Pad Violet",
             "Total": 13,
             "Sold_Amazon": 0.0,
-            "Sold_Meesho": 3.0,
+            "Sold_Meesho": 4.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 10.0
+            "Remaining": 9.0
         },
         {
             "ITEM": "Yoga Pad Light Rose",
@@ -324,12 +324,12 @@
         {
             "ITEM": "Laundry Star",
             "Total": 120,
-            "Sold_Amazon": 10.0,
+            "Sold_Amazon": 20.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 110.0
+            "Remaining": 100.0
         },
         {
             "ITEM": "Laundry Ball",

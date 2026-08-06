@@ -1,5 +1,5 @@
 {
-    "last_updated": "05-08-2026 08:30 PM IST",
+    "last_updated": "06-08-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -24,12 +24,12 @@
         {
             "ITEM": "Plastic Hanging Rack Beige",
             "Total": 18,
-            "Sold_Amazon": 9.0,
+            "Sold_Amazon": 10.0,
             "Sold_Meesho": 2.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 7.0
+            "Remaining": 6.0
         },
         {
             "ITEM": "Plastic Hanging Rack Grey",
@@ -95,11 +95,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
             "Sold_Amazon": 2.0,
-            "Sold_Meesho": 89.0,
+            "Sold_Meesho": 91.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 51.0
+            "Remaining": 49.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 536.0,
+            "Sold_Meesho": 540.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 3.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 58.0
+            "Remaining": 54.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -356,10 +356,10 @@
             "Total": 12,
             "Sold_Amazon": 12.0,
             "Sold_Meesho": 0.0,
-            "Return_Amazon": 0.0,
+            "Return_Amazon": 1.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 0.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Inflatable Pillow Black/Navy Blue",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "07-08-2026 08:30 PM IST",
+    "last_updated": "08-08-2026 08:40 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -125,9 +125,9 @@
             "ITEM": "Stove Ring",
             "Total": 320,
             "Sold_Amazon": 64.0,
-            "Sold_Meesho": 197.0,
+            "Sold_Meesho": 196.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 1.0,
+            "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 59.0
         },
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 542.0,
+            "Sold_Meesho": 545.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 51.0
+            "Remaining": 48.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -184,12 +184,12 @@
         {
             "ITEM": "Yoga Pad Violet",
             "Total": 13,
-            "Sold_Amazon": 0.0,
+            "Sold_Amazon": 1.0,
             "Sold_Meesho": 4.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 9.0
+            "Remaining": 8.0
         },
         {
             "ITEM": "Yoga Pad Light Rose",
@@ -234,9 +234,9 @@
         {
             "ITEM": "Folding Stool Medium Brown",
             "Total": 22,
-            "Sold_Amazon": 14.0,
+            "Sold_Amazon": 13.0,
             "Sold_Meesho": 0.0,
-            "Return_Amazon": 1.0,
+            "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 8.0
@@ -284,12 +284,12 @@
         {
             "ITEM": "Travel Kit Grey",
             "Total": 16,
-            "Sold_Amazon": 12.0,
+            "Sold_Amazon": 13.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 3.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Vegetable Bag",
@@ -334,12 +334,12 @@
         {
             "ITEM": "Laundry Ball",
             "Total": 120,
-            "Sold_Amazon": 30.0,
+            "Sold_Amazon": 35.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 6.0,
-            "Remaining": 84.0
+            "Remaining": 79.0
         },
         {
             "ITEM": "Knife Sharpner",

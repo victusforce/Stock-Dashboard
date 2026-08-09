@@ -1,5 +1,5 @@
 {
-    "last_updated": "08-08-2026 08:40 PM IST",
+    "last_updated": "09-08-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -74,12 +74,12 @@
         {
             "ITEM": "Gel Eye Mask",
             "Total": 48,
-            "Sold_Amazon": 5.0,
+            "Sold_Amazon": 6.0,
             "Sold_Meesho": 17.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 26.0
+            "Remaining": 25.0
         },
         {
             "ITEM": "Hot and Cold Gel Pack Blue",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 600,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 545.0,
+            "Sold_Meesho": 554.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 48.0
+            "Remaining": 39.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -294,12 +294,12 @@
         {
             "ITEM": "Vegetable Bag",
             "Total": 50,
-            "Sold_Amazon": 8.0,
+            "Sold_Amazon": 9.0,
             "Sold_Meesho": 11.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 31.0
+            "Remaining": 30.0
         },
         {
             "ITEM": "Shelf Liner Grey",
@@ -334,12 +334,12 @@
         {
             "ITEM": "Laundry Ball",
             "Total": 120,
-            "Sold_Amazon": 35.0,
+            "Sold_Amazon": 40.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 6.0,
-            "Remaining": 79.0
+            "Remaining": 74.0
         },
         {
             "ITEM": "Knife Sharpner",

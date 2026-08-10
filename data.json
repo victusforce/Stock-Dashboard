@@ -1,5 +1,5 @@
 {
-    "last_updated": "09-08-2026 08:30 PM IST",
+    "last_updated": "10-08-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -94,12 +94,12 @@
         {
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 142,
-            "Sold_Amazon": 2.0,
-            "Sold_Meesho": 92.0,
+            "Sold_Amazon": 3.0,
+            "Sold_Meesho": 94.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 48.0
+            "Remaining": 45.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -133,13 +133,13 @@
         },
         {
             "ITEM": "Medicine Box",
-            "Total": 600,
+            "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 554.0,
+            "Sold_Meesho": 556.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 39.0
+            "Remaining": 112.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -234,12 +234,12 @@
         {
             "ITEM": "Folding Stool Medium Brown",
             "Total": 22,
-            "Sold_Amazon": 13.0,
+            "Sold_Amazon": 14.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 8.0
+            "Remaining": 7.0
         },
         {
             "ITEM": "Folding Stool Medium Green",
@@ -324,12 +324,12 @@
         {
             "ITEM": "Laundry Star",
             "Total": 120,
-            "Sold_Amazon": 25.0,
+            "Sold_Amazon": 30.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 95.0
+            "Remaining": 90.0
         },
         {
             "ITEM": "Laundry Ball",

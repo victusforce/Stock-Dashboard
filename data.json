@@ -1,5 +1,5 @@
 {
-    "last_updated": "10-08-2026 08:30 PM IST",
+    "last_updated": "11-08-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -77,9 +77,9 @@
             "Sold_Amazon": 6.0,
             "Sold_Meesho": 17.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 0.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 25.0
+            "Remaining": 26.0
         },
         {
             "ITEM": "Hot and Cold Gel Pack Blue",
@@ -93,13 +93,13 @@
         },
         {
             "ITEM": "Hot and Cold Gel Pack Black",
-            "Total": 142,
+            "Total": 129,
             "Sold_Amazon": 3.0,
             "Sold_Meesho": 94.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 45.0
+            "Remaining": 32.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -124,22 +124,22 @@
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 64.0,
+            "Sold_Amazon": 66.0,
             "Sold_Meesho": 196.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 59.0
+            "Remaining": 57.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 556.0,
+            "Sold_Meesho": 561.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 112.0
+            "Remaining": 107.0
         },
         {
             "ITEM": "Yoga Pad Beige",

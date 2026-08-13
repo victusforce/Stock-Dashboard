@@ -1,5 +1,5 @@
 {
-    "last_updated": "12-08-2026 08:30 PM IST",
+    "last_updated": "13-08-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -24,12 +24,12 @@
         {
             "ITEM": "Plastic Hanging Rack Beige",
             "Total": 18,
-            "Sold_Amazon": 10.0,
+            "Sold_Amazon": 11.0,
             "Sold_Meesho": 2.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 6.0
+            "Remaining": 5.0
         },
         {
             "ITEM": "Plastic Hanging Rack Grey",
@@ -124,22 +124,22 @@
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 67.0,
+            "Sold_Amazon": 68.0,
             "Sold_Meesho": 196.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 56.0
+            "Remaining": 55.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 562.0,
+            "Sold_Meesho": 569.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 104.0
+            "Remaining": 97.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -174,12 +174,12 @@
         {
             "ITEM": "Yoga Pad Pink",
             "Total": 25,
-            "Sold_Amazon": 10.0,
+            "Sold_Amazon": 11.0,
             "Sold_Meesho": 14.0,
             "Return_Amazon": 1.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 2.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Yoga Pad Violet",

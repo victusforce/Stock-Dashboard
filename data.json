@@ -1,5 +1,5 @@
 {
-    "last_updated": "15-08-2026 08:30 PM IST",
+    "last_updated": "16-08-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -65,11 +65,11 @@
             "ITEM": "Kitchen Scissor White",
             "Total": 49,
             "Sold_Amazon": 0.0,
-            "Sold_Meesho": 31.0,
+            "Sold_Meesho": 32.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 17.0
+            "Remaining": 16.0
         },
         {
             "ITEM": "Gel Eye Mask",
@@ -127,19 +127,19 @@
             "Sold_Amazon": 67.0,
             "Sold_Meesho": 199.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 1.0,
+            "Return_Meesho": 3.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 54.0
+            "Remaining": 56.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 579.0,
+            "Sold_Meesho": 588.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 3.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 90.0
+            "Remaining": 81.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -314,12 +314,12 @@
         {
             "ITEM": "Shelf Liner White",
             "Total": 25,
-            "Sold_Amazon": 16.0,
+            "Sold_Amazon": 17.0,
             "Sold_Meesho": 6.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 3.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Laundry Star",
@@ -354,12 +354,12 @@
         {
             "ITEM": "Inflatable Pillow Blue",
             "Total": 12,
-            "Sold_Amazon": 11.0,
+            "Sold_Amazon": 12.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 1.0
+            "Remaining": 0.0
         },
         {
             "ITEM": "Inflatable Pillow Black/Navy Blue",

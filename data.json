@@ -1,5 +1,5 @@
 {
-    "last_updated": "20-08-2026 08:30 PM IST",
+    "last_updated": "22-08-2026 12:59 AM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 594.0,
+            "Sold_Meesho": 599.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 3.0,
+            "Return_Meesho": 5.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 75.0
+            "Remaining": 72.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -184,12 +184,12 @@
         {
             "ITEM": "Yoga Pad Violet",
             "Total": 13,
-            "Sold_Amazon": 4.0,
+            "Sold_Amazon": 5.0,
             "Sold_Meesho": 4.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 5.0
+            "Remaining": 4.0
         },
         {
             "ITEM": "Yoga Pad Light Rose",
@@ -286,10 +286,10 @@
             "Total": 16,
             "Sold_Amazon": 13.0,
             "Sold_Meesho": 0.0,
-            "Return_Amazon": 0.0,
+            "Return_Amazon": 1.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 2.0
+            "Remaining": 3.0
         },
         {
             "ITEM": "Vegetable Bag",

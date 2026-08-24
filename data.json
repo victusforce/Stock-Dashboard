@@ -1,5 +1,5 @@
 {
-    "last_updated": "23-08-2026 08:30 PM IST",
+    "last_updated": "24-08-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 602.0,
+            "Sold_Meesho": 605.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 6.0,
+            "Return_Meesho": 7.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 70.0
+            "Remaining": 68.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -184,12 +184,12 @@
         {
             "ITEM": "Yoga Pad Violet",
             "Total": 13,
-            "Sold_Amazon": 5.0,
+            "Sold_Amazon": 6.0,
             "Sold_Meesho": 4.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 4.0
+            "Remaining": 3.0
         },
         {
             "ITEM": "Yoga Pad Light Rose",
@@ -294,12 +294,12 @@
         {
             "ITEM": "Vegetable Bag",
             "Total": 50,
-            "Sold_Amazon": 10.0,
+            "Sold_Amazon": 11.0,
             "Sold_Meesho": 11.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 29.0
+            "Remaining": 28.0
         },
         {
             "ITEM": "Shelf Liner Grey",
@@ -314,12 +314,12 @@
         {
             "ITEM": "Shelf Liner White",
             "Total": 25,
-            "Sold_Amazon": 17.0,
+            "Sold_Amazon": 18.0,
             "Sold_Meesho": 6.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 2.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Laundry Star",

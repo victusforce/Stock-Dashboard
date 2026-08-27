@@ -1,5 +1,5 @@
 {
-    "last_updated": "26-08-2026 08:30 PM IST",
+    "last_updated": "27-08-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -95,11 +95,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 129,
             "Sold_Amazon": 3.0,
-            "Sold_Meesho": 97.0,
+            "Sold_Meesho": 100.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 29.0
+            "Remaining": 26.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -127,17 +127,17 @@
             "Sold_Amazon": 67.0,
             "Sold_Meesho": 200.0,
             "Return_Amazon": 2.0,
-            "Return_Meesho": 0.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 54.0
+            "Remaining": 55.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 607.0,
+            "Sold_Meesho": 608.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 10.0,
+            "Return_Meesho": 11.0,
             "Damaged_Lost_Others": 2.0,
             "Remaining": 69.0
         },
@@ -176,20 +176,20 @@
             "Total": 25,
             "Sold_Amazon": 11.0,
             "Sold_Meesho": 14.0,
-            "Return_Amazon": 1.0,
+            "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 1.0
+            "Remaining": 0.0
         },
         {
             "ITEM": "Yoga Pad Violet",
             "Total": 13,
-            "Sold_Amazon": 6.0,
+            "Sold_Amazon": 7.0,
             "Sold_Meesho": 4.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 3.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Yoga Pad Light Rose",
@@ -234,12 +234,12 @@
         {
             "ITEM": "Folding Stool Medium Brown",
             "Total": 22,
-            "Sold_Amazon": 17.0,
+            "Sold_Amazon": 18.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 4.0
+            "Remaining": 3.0
         },
         {
             "ITEM": "Folding Stool Medium Green",
@@ -264,12 +264,12 @@
         {
             "ITEM": "Folding Stool Large Green",
             "Total": 12,
-            "Sold_Amazon": 9.0,
+            "Sold_Amazon": 10.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 3.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Travel Kit Blue",

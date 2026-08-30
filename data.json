@@ -1,5 +1,5 @@
 {
-    "last_updated": "29-08-2026 08:30 PM IST",
+    "last_updated": "30-08-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 605.0,
+            "Sold_Meesho": 606.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 7.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 68.0
+            "Remaining": 67.0
         },
         {
             "ITEM": "Yoga Pad Beige",
@@ -184,12 +184,12 @@
         {
             "ITEM": "Yoga Pad Violet",
             "Total": 13,
-            "Sold_Amazon": 8.0,
+            "Sold_Amazon": 9.0,
             "Sold_Meesho": 4.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 1.0
+            "Remaining": 0.0
         },
         {
             "ITEM": "Yoga Pad Light Rose",
@@ -234,32 +234,32 @@
         {
             "ITEM": "Folding Stool Medium Brown",
             "Total": 22,
-            "Sold_Amazon": 18.0,
+            "Sold_Amazon": 19.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 3.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Folding Stool Medium Green",
             "Total": 30,
             "Sold_Amazon": 14.0,
             "Sold_Meesho": 6.0,
-            "Return_Amazon": 0.0,
+            "Return_Amazon": 1.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 10.0
+            "Remaining": 11.0
         },
         {
             "ITEM": "Folding Stool Large Brown",
             "Total": 16,
-            "Sold_Amazon": 10.0,
+            "Sold_Amazon": 11.0,
             "Sold_Meesho": 2.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 2.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Folding Stool Large Green",
@@ -284,9 +284,9 @@
         {
             "ITEM": "Travel Kit Grey",
             "Total": 16,
-            "Sold_Amazon": 12.0,
+            "Sold_Amazon": 11.0,
             "Sold_Meesho": 0.0,
-            "Return_Amazon": 1.0,
+            "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 4.0

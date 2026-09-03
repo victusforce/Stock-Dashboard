@@ -1,5 +1,5 @@
 {
-    "last_updated": "02-09-2026 08:30 PM IST",
+    "last_updated": "03-09-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -115,11 +115,11 @@
             "ITEM": "Shoe Bag Blue",
             "Total": 34,
             "Sold_Amazon": 6.0,
-            "Sold_Meesho": 3.0,
+            "Sold_Meesho": 5.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 25.0
+            "Remaining": 23.0
         },
         {
             "ITEM": "Stove Ring",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 604.0,
+            "Sold_Meesho": 610.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 5.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 67.0
+            "Remaining": 61.0
         },
         {
             "ITEM": "Folding Stool Small Brown",

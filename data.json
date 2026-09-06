@@ -1,5 +1,5 @@
 {
-    "last_updated": "04-09-2026 08:43 PM IST",
+    "last_updated": "06-09-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -14,12 +14,12 @@
         {
             "ITEM": "Anti Vibration Pad Ivory",
             "Total": 50,
-            "Sold_Amazon": 0.0,
+            "Sold_Amazon": 1.0,
             "Sold_Meesho": 1.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 49.0
+            "Remaining": 48.0
         },
         {
             "ITEM": "Plastic Hanging Rack Beige",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 612.0,
+            "Sold_Meesho": 618.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 5.0,
+            "Return_Meesho": 7.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 59.0
+            "Remaining": 55.0
         },
         {
             "ITEM": "Folding Stool Small Brown",
@@ -205,11 +205,11 @@
             "ITEM": "Travel Kit Blue",
             "Total": 14,
             "Sold_Amazon": 0.0,
-            "Sold_Meesho": 9.0,
+            "Sold_Meesho": 10.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 5.0
+            "Remaining": 4.0
         },
         {
             "ITEM": "Travel Kit Grey",

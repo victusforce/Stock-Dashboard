@@ -1,5 +1,5 @@
 {
-    "last_updated": "07-09-2026 08:30 PM IST",
+    "last_updated": "08-09-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -75,11 +75,11 @@
             "ITEM": "Gel Eye Mask",
             "Total": 48,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 18.0,
+            "Sold_Meesho": 19.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 24.0
+            "Remaining": 23.0
         },
         {
             "ITEM": "Hot and Cold Gel Pack Blue",
@@ -95,11 +95,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 129,
             "Sold_Amazon": 3.0,
-            "Sold_Meesho": 106.0,
+            "Sold_Meesho": 107.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 20.0
+            "Remaining": 19.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -126,20 +126,20 @@
             "Total": 320,
             "Sold_Amazon": 72.0,
             "Sold_Meesho": 203.0,
-            "Return_Amazon": 2.0,
+            "Return_Amazon": 3.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 47.0
+            "Remaining": 48.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 622.0,
+            "Sold_Meesho": 631.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 7.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 51.0
+            "Remaining": 42.0
         },
         {
             "ITEM": "Folding Stool Small Brown",
@@ -186,10 +186,10 @@
             "Total": 16,
             "Sold_Amazon": 11.0,
             "Sold_Meesho": 2.0,
-            "Return_Amazon": 1.0,
+            "Return_Amazon": 2.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 2.0
+            "Remaining": 3.0
         },
         {
             "ITEM": "Folding Stool Large Green",
@@ -205,11 +205,11 @@
             "ITEM": "Travel Kit Blue",
             "Total": 14,
             "Sold_Amazon": 0.0,
-            "Sold_Meesho": 11.0,
+            "Sold_Meesho": 12.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 3.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Travel Kit Grey",

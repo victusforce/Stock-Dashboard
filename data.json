@@ -1,5 +1,5 @@
 {
-    "last_updated": "08-09-2026 08:30 PM IST",
+    "last_updated": "09-09-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -74,12 +74,12 @@
         {
             "ITEM": "Gel Eye Mask",
             "Total": 48,
-            "Sold_Amazon": 7.0,
+            "Sold_Amazon": 8.0,
             "Sold_Meesho": 19.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 23.0
+            "Remaining": 22.0
         },
         {
             "ITEM": "Hot and Cold Gel Pack Blue",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 631.0,
+            "Sold_Meesho": 637.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 7.0,
+            "Return_Meesho": 8.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 42.0
+            "Remaining": 37.0
         },
         {
             "ITEM": "Folding Stool Small Brown",

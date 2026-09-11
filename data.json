@@ -1,5 +1,5 @@
 {
-    "last_updated": "10-09-2026 08:30 PM IST",
+    "last_updated": "11-09-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -75,9 +75,9 @@
             "ITEM": "Gel Eye Mask",
             "Total": 48,
             "Sold_Amazon": 8.0,
-            "Sold_Meesho": 19.0,
+            "Sold_Meesho": 18.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 1.0,
+            "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
             "Remaining": 22.0
         },
@@ -95,11 +95,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 129,
             "Sold_Amazon": 3.0,
-            "Sold_Meesho": 107.0,
+            "Sold_Meesho": 106.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 19.0
+            "Remaining": 20.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -124,10 +124,10 @@
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 72.0,
-            "Sold_Meesho": 203.0,
-            "Return_Amazon": 3.0,
-            "Return_Meesho": 1.0,
+            "Sold_Amazon": 70.0,
+            "Sold_Meesho": 202.0,
+            "Return_Amazon": 1.0,
+            "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 48.0
         },
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 644.0,
+            "Sold_Meesho": 638.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 8.0,
+            "Return_Meesho": 3.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 30.0
+            "Remaining": 31.0
         },
         {
             "ITEM": "Folding Stool Small Brown",

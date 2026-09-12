@@ -1,5 +1,5 @@
 {
-    "last_updated": "11-09-2026 08:30 PM IST",
+    "last_updated": "12-09-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -166,10 +166,10 @@
             "Total": 22,
             "Sold_Amazon": 21.0,
             "Sold_Meesho": 0.0,
-            "Return_Amazon": 0.0,
+            "Return_Amazon": 1.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 0.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Folding Stool Medium Green",
@@ -194,9 +194,9 @@
         {
             "ITEM": "Folding Stool Large Green",
             "Total": 12,
-            "Sold_Amazon": 11.0,
+            "Sold_Amazon": 10.0,
             "Sold_Meesho": 0.0,
-            "Return_Amazon": 1.0,
+            "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
             "Remaining": 2.0

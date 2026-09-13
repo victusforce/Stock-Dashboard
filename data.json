@@ -1,5 +1,5 @@
 {
-    "last_updated": "12-09-2026 08:30 PM IST",
+    "last_updated": "13-09-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -14,12 +14,12 @@
         {
             "ITEM": "Anti Vibration Pad Ivory",
             "Total": 50,
-            "Sold_Amazon": 1.0,
+            "Sold_Amazon": 2.0,
             "Sold_Meesho": 1.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 48.0
+            "Remaining": 47.0
         },
         {
             "ITEM": "Plastic Hanging Rack Beige",
@@ -125,21 +125,21 @@
             "ITEM": "Stove Ring",
             "Total": 320,
             "Sold_Amazon": 70.0,
-            "Sold_Meesho": 202.0,
+            "Sold_Meesho": 203.0,
             "Return_Amazon": 1.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 48.0
+            "Remaining": 47.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 638.0,
+            "Sold_Meesho": 644.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 3.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 31.0
+            "Remaining": 25.0
         },
         {
             "ITEM": "Folding Stool Small Brown",
@@ -194,11 +194,11 @@
         {
             "ITEM": "Folding Stool Large Green",
             "Total": 12,
-            "Sold_Amazon": 10.0,
+            "Sold_Amazon": 9.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 0.0,
+            "Damaged_Lost_Others": 1.0,
             "Remaining": 2.0
         },
         {

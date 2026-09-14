@@ -1,5 +1,5 @@
 {
-    "last_updated": "13-09-2026 08:30 PM IST",
+    "last_updated": "14-09-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -54,12 +54,12 @@
         {
             "ITEM": "Kitchen Scissor Red",
             "Total": 26,
-            "Sold_Amazon": 3.0,
+            "Sold_Amazon": 4.0,
             "Sold_Meesho": 5.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 18.0
+            "Remaining": 17.0
         },
         {
             "ITEM": "Kitchen Scissor White",
@@ -94,12 +94,12 @@
         {
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 129,
-            "Sold_Amazon": 3.0,
-            "Sold_Meesho": 106.0,
+            "Sold_Amazon": 4.0,
+            "Sold_Meesho": 108.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 20.0
+            "Remaining": 17.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -125,8 +125,8 @@
             "ITEM": "Stove Ring",
             "Total": 320,
             "Sold_Amazon": 70.0,
-            "Sold_Meesho": 203.0,
-            "Return_Amazon": 1.0,
+            "Sold_Meesho": 202.0,
+            "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 47.0
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 675,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 644.0,
+            "Sold_Meesho": 645.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 3.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 25.0
+            "Remaining": 24.0
         },
         {
             "ITEM": "Folding Stool Small Brown",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "15-09-2026 08:30 PM IST",
+    "last_updated": "16-09-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -24,12 +24,12 @@
         {
             "ITEM": "Plastic Hanging Rack Beige",
             "Total": 18,
-            "Sold_Amazon": 15.0,
+            "Sold_Amazon": 14.0,
             "Sold_Meesho": 2.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 1.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Plastic Hanging Rack Grey",
@@ -64,12 +64,12 @@
         {
             "ITEM": "Kitchen Scissor White",
             "Total": 49,
-            "Sold_Amazon": 0.0,
+            "Sold_Amazon": 1.0,
             "Sold_Meesho": 32.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 16.0
+            "Remaining": 15.0
         },
         {
             "ITEM": "Gel Eye Mask",
@@ -95,9 +95,9 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 129,
             "Sold_Amazon": 4.0,
-            "Sold_Meesho": 108.0,
+            "Sold_Meesho": 107.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 1.0,
+            "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
             "Remaining": 18.0
         },
@@ -133,13 +133,13 @@
         },
         {
             "ITEM": "Medicine Box",
-            "Total": 675,
+            "Total": 925,
             "Sold_Amazon": 7.0,
-            "Sold_Meesho": 647.0,
+            "Sold_Meesho": 653.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 4.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 23.0
+            "Remaining": 267.0
         },
         {
             "ITEM": "Folding Stool Small Brown",
@@ -194,12 +194,12 @@
         {
             "ITEM": "Folding Stool Large Green",
             "Total": 12,
-            "Sold_Amazon": 9.0,
+            "Sold_Amazon": 7.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 2.0
+            "Remaining": 4.0
         },
         {
             "ITEM": "Travel Kit Blue",

@@ -1,15 +1,15 @@
 {
-    "last_updated": "21-09-2026 08:42 PM IST",
+    "last_updated": "22-09-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
             "Total": 50,
-            "Sold_Amazon": 4.0,
+            "Sold_Amazon": 5.0,
             "Sold_Meesho": 44.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 1.0
+            "Remaining": 0.0
         },
         {
             "ITEM": "Anti Vibration Pad Ivory",
@@ -125,21 +125,21 @@
             "ITEM": "Stove Ring",
             "Total": 320,
             "Sold_Amazon": 70.0,
-            "Sold_Meesho": 202.0,
+            "Sold_Meesho": 206.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 47.0
+            "Remaining": 43.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 925,
-            "Sold_Amazon": 7.0,
-            "Sold_Meesho": 665.0,
+            "Sold_Amazon": 8.0,
+            "Sold_Meesho": 669.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 4.0,
+            "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 255.0
+            "Remaining": 248.0
         },
         {
             "ITEM": "Folding Stool Small Brown",
@@ -164,9 +164,9 @@
         {
             "ITEM": "Folding Stool Medium Brown",
             "Total": 22,
-            "Sold_Amazon": 21.0,
+            "Sold_Amazon": 20.0,
             "Sold_Meesho": 0.0,
-            "Return_Amazon": 1.0,
+            "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 1.0
@@ -174,12 +174,12 @@
         {
             "ITEM": "Folding Stool Medium Green",
             "Total": 30,
-            "Sold_Amazon": 15.0,
+            "Sold_Amazon": 14.0,
             "Sold_Meesho": 6.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 9.0
+            "Remaining": 10.0
         },
         {
             "ITEM": "Folding Stool Large Brown",

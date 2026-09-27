@@ -1,5 +1,5 @@
 {
-    "last_updated": "22-09-2026 08:30 PM IST",
+    "last_updated": "27-09-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -95,11 +95,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 129,
             "Sold_Amazon": 4.0,
-            "Sold_Meesho": 109.0,
+            "Sold_Meesho": 110.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 16.0
+            "Remaining": 15.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -135,11 +135,11 @@
             "ITEM": "Medicine Box",
             "Total": 925,
             "Sold_Amazon": 8.0,
-            "Sold_Meesho": 669.0,
+            "Sold_Meesho": 686.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 2.0,
+            "Return_Meesho": 3.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 248.0
+            "Remaining": 232.0
         },
         {
             "ITEM": "Folding Stool Small Brown",
@@ -205,11 +205,11 @@
             "ITEM": "Travel Kit Blue",
             "Total": 14,
             "Sold_Amazon": 0.0,
-            "Sold_Meesho": 12.0,
+            "Sold_Meesho": 13.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 2.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Travel Kit Grey",

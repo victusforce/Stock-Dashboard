@@ -1,5 +1,5 @@
 {
-    "last_updated": "08-10-2026 08:30 PM IST",
+    "last_updated": "09-10-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -54,12 +54,12 @@
         {
             "ITEM": "Shelf Liner White",
             "Total": 25,
-            "Sold_Amazon": 18.0,
+            "Sold_Amazon": 19.0,
             "Sold_Meesho": 6.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 1.0
+            "Remaining": 0.0
         },
         {
             "ITEM": "Kitchen Scissor Red",
@@ -105,11 +105,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 129,
             "Sold_Amazon": 5.0,
-            "Sold_Meesho": 111.0,
+            "Sold_Meesho": 112.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 13.0
+            "Remaining": 12.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -134,10 +134,10 @@
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 71.0,
+            "Sold_Amazon": 72.0,
             "Sold_Meesho": 207.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 1.0,
+            "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 1.0,
             "Remaining": 42.0
         },
@@ -145,11 +145,11 @@
             "ITEM": "Medicine Box",
             "Total": 925,
             "Sold_Amazon": 9.0,
-            "Sold_Meesho": 720.0,
+            "Sold_Meesho": 725.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 7.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 201.0
+            "Remaining": 196.0
         },
         {
             "ITEM": "Folding Stool Small Brown",
@@ -254,12 +254,12 @@
         {
             "ITEM": "Laundry Ball",
             "Total": 120,
-            "Sold_Amazon": 65.0,
+            "Sold_Amazon": 70.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 6.0,
-            "Remaining": 49.0
+            "Remaining": 44.0
         },
         {
             "ITEM": "Yoga Pad Beige",

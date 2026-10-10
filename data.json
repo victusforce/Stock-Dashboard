@@ -1,5 +1,5 @@
 {
-    "last_updated": "09-10-2026 08:30 PM IST",
+    "last_updated": "10-10-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -14,9 +14,9 @@
         {
             "ITEM": "Anti Vibration Pad Ivory",
             "Total": 50,
-            "Sold_Amazon": 5.0,
+            "Sold_Amazon": 4.0,
             "Sold_Meesho": 1.0,
-            "Return_Amazon": 1.0,
+            "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
             "Remaining": 45.0
@@ -145,9 +145,9 @@
             "ITEM": "Medicine Box",
             "Total": 925,
             "Sold_Amazon": 9.0,
-            "Sold_Meesho": 725.0,
+            "Sold_Meesho": 724.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 7.0,
+            "Return_Meesho": 6.0,
             "Damaged_Lost_Others": 2.0,
             "Remaining": 196.0
         },
@@ -244,12 +244,12 @@
         {
             "ITEM": "Laundry Star",
             "Total": 120,
-            "Sold_Amazon": 65.0,
+            "Sold_Amazon": 75.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 55.0
+            "Remaining": 45.0
         },
         {
             "ITEM": "Laundry Ball",

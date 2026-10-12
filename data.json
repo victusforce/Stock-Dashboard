@@ -1,5 +1,5 @@
 {
-    "last_updated": "10-10-2026 08:30 PM IST",
+    "last_updated": "12-10-2026 08:43 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -135,19 +135,19 @@
             "ITEM": "Stove Ring",
             "Total": 320,
             "Sold_Amazon": 72.0,
-            "Sold_Meesho": 207.0,
+            "Sold_Meesho": 208.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 2.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 42.0
+            "Remaining": 41.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 925,
             "Sold_Amazon": 9.0,
-            "Sold_Meesho": 724.0,
+            "Sold_Meesho": 719.0,
             "Return_Amazon": 0.0,
-            "Return_Meesho": 6.0,
+            "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 2.0,
             "Remaining": 196.0
         },

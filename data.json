@@ -1,5 +1,5 @@
 {
-    "last_updated": "16-10-2026 08:48 PM IST",
+    "last_updated": "17-10-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -14,12 +14,12 @@
         {
             "ITEM": "Anti Vibration Pad Ivory",
             "Total": 50,
-            "Sold_Amazon": 5.0,
+            "Sold_Amazon": 6.0,
             "Sold_Meesho": 1.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 44.0
+            "Remaining": 43.0
         },
         {
             "ITEM": "Plastic Hanging Rack Beige",
@@ -213,23 +213,23 @@
         },
         {
             "ITEM": "Travel Kit Blue",
-            "Total": 14,
+            "Total": 16,
             "Sold_Amazon": 0.0,
             "Sold_Meesho": 14.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 0.0
+            "Remaining": 2.0
         },
         {
             "ITEM": "Travel Kit Grey",
-            "Total": 16,
-            "Sold_Amazon": 12.0,
+            "Total": 14,
+            "Sold_Amazon": 13.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 3.0
+            "Remaining": 0.0
         },
         {
             "ITEM": "Vegetable Bag",

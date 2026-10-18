@@ -1,5 +1,5 @@
 {
-    "last_updated": "17-10-2026 08:30 PM IST",
+    "last_updated": "18-10-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -24,12 +24,12 @@
         {
             "ITEM": "Plastic Hanging Rack Beige",
             "Total": 18,
-            "Sold_Amazon": 15.0,
+            "Sold_Amazon": 16.0,
             "Sold_Meesho": 2.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 1.0
+            "Remaining": 0.0
         },
         {
             "ITEM": "Plastic Hanging Rack Grey",
@@ -105,11 +105,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 129,
             "Sold_Amazon": 5.0,
-            "Sold_Meesho": 113.0,
+            "Sold_Meesho": 114.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 11.0
+            "Remaining": 10.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -144,12 +144,12 @@
         {
             "ITEM": "Medicine Box",
             "Total": 925,
-            "Sold_Amazon": 9.0,
-            "Sold_Meesho": 723.0,
+            "Sold_Amazon": 11.0,
+            "Sold_Meesho": 724.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 192.0
+            "Remaining": 189.0
         },
         {
             "ITEM": "Folding Stool Small Brown",
@@ -218,8 +218,8 @@
             "Sold_Meesho": 14.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
-            "Damaged_Lost_Others": 0.0,
-            "Remaining": 2.0
+            "Damaged_Lost_Others": 1.0,
+            "Remaining": 1.0
         },
         {
             "ITEM": "Travel Kit Grey",

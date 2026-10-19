@@ -1,5 +1,5 @@
 {
-    "last_updated": "18-10-2026 08:30 PM IST",
+    "last_updated": "19-10-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -105,11 +105,11 @@
             "ITEM": "Hot and Cold Gel Pack Black",
             "Total": 129,
             "Sold_Amazon": 5.0,
-            "Sold_Meesho": 114.0,
+            "Sold_Meesho": 104.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 10.0
+            "Remaining": 20.0
         },
         {
             "ITEM": "Shoe Bag Grey",
@@ -144,12 +144,12 @@
         {
             "ITEM": "Medicine Box",
             "Total": 925,
-            "Sold_Amazon": 11.0,
+            "Sold_Amazon": 12.0,
             "Sold_Meesho": 724.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 1.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 189.0
+            "Remaining": 188.0
         },
         {
             "ITEM": "Folding Stool Small Brown",
@@ -244,12 +244,12 @@
         {
             "ITEM": "Laundry Star",
             "Total": 120,
-            "Sold_Amazon": 75.0,
+            "Sold_Amazon": 80.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 45.0
+            "Remaining": 40.0
         },
         {
             "ITEM": "Laundry Ball",

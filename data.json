@@ -1,5 +1,5 @@
 {
-    "last_updated": "22-10-2026 08:30 PM IST",
+    "last_updated": "23-10-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -64,12 +64,12 @@
         {
             "ITEM": "Kitchen Scissor Red",
             "Total": 26,
-            "Sold_Amazon": 4.0,
+            "Sold_Amazon": 5.0,
             "Sold_Meesho": 5.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 17.0
+            "Remaining": 16.0
         },
         {
             "ITEM": "Kitchen Scissor White",
@@ -134,22 +134,22 @@
         {
             "ITEM": "Stove Ring",
             "Total": 320,
-            "Sold_Amazon": 72.0,
+            "Sold_Amazon": 73.0,
             "Sold_Meesho": 207.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 40.0
+            "Remaining": 39.0
         },
         {
             "ITEM": "Medicine Box",
             "Total": 925,
             "Sold_Amazon": 13.0,
-            "Sold_Meesho": 725.0,
+            "Sold_Meesho": 726.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 2.0,
-            "Remaining": 185.0
+            "Remaining": 184.0
         },
         {
             "ITEM": "Folding Stool Small Brown",

@@ -1,5 +1,5 @@
 {
-    "last_updated": "23-10-2026 08:30 PM IST",
+    "last_updated": "24-10-2026 08:30 PM IST",
     "inventory": [
         {
             "ITEM": "Anti Vibration Pad Grey",
@@ -174,12 +174,12 @@
         {
             "ITEM": "Folding Stool Medium Brown",
             "Total": 22,
-            "Sold_Amazon": 20.0,
+            "Sold_Amazon": 21.0,
             "Sold_Meesho": 0.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 1.0
+            "Remaining": 0.0
         },
         {
             "ITEM": "Folding Stool Medium Green",
@@ -226,20 +226,20 @@
             "Total": 14,
             "Sold_Amazon": 13.0,
             "Sold_Meesho": 0.0,
-            "Return_Amazon": 0.0,
+            "Return_Amazon": 1.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 1.0,
-            "Remaining": 0.0
+            "Remaining": 1.0
         },
         {
             "ITEM": "Vegetable Bag",
             "Total": 50,
-            "Sold_Amazon": 12.0,
+            "Sold_Amazon": 13.0,
             "Sold_Meesho": 11.0,
             "Return_Amazon": 0.0,
             "Return_Meesho": 0.0,
             "Damaged_Lost_Others": 0.0,
-            "Remaining": 27.0
+            "Remaining": 26.0
         },
         {
             "ITEM": "Laundry Star",
